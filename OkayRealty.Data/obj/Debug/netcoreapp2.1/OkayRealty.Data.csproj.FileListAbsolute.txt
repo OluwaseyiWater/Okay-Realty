@@ -1,0 +1,15 @@
+C:\Users\DELL\source\Okay Realty\OkayRealty.Data\bin\Debug\netcoreapp2.1\OkayRealty.Data.deps.json
+C:\Users\DELL\source\Okay Realty\OkayRealty.Data\bin\Debug\netcoreapp2.1\OkayRealty.Data.dll
+C:\Users\DELL\source\Okay Realty\OkayRealty.Data\bin\Debug\netcoreapp2.1\OkayRealty.Data.pdb
+C:\Users\DELL\source\Okay Realty\OkayRealty.Data\bin\Debug\netcoreapp2.1\OkayRealty.Core.dll
+C:\Users\DELL\source\Okay Realty\OkayRealty.Data\bin\Debug\netcoreapp2.1\OkayRealty.Core.pdb
+C:\Users\DELL\source\Okay Realty\OkayRealty.Data\obj\Debug\netcoreapp2.1\OkayRealty.Data.csprojAssemblyReference.cache
+C:\Users\DELL\source\Okay Realty\OkayRealty.Data\obj\Debug\netcoreapp2.1\OkayRealty.Data.AssemblyInfoInputs.cache
+C:\Users\DELL\source\Okay Realty\OkayRealty.Data\obj\Debug\netcoreapp2.1\OkayRealty.Data.AssemblyInfo.cs
+C:\Users\DELL\source\Okay Realty\OkayRealty.Data\obj\Debug\netcoreapp2.1\OkayRealty.Data.csproj.CopyComplete
+C:\Users\DELL\source\Okay Realty\OkayRealty.Data\obj\Debug\netcoreapp2.1\OkayRealty.Data.dll
+C:\Users\DELL\source\Okay Realty\OkayRealty.Data\obj\Debug\netcoreapp2.1\OkayRealty.Data.pdb
+C:\Users\DELL\source\Okay Realty\OkayRealty.Data\bin\Debug\netcoreapp2.1\OkayRealty.Data.runtimeconfig.json
+C:\Users\DELL\source\Okay Realty\OkayRealty.Data\bin\Debug\netcoreapp2.1\OkayRealty.Data.runtimeconfig.dev.json
+C:\Users\DELL\source\Okay Realty\OkayRealty.Data\obj\Debug\netcoreapp2.1\OkayRealty.Data.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\Okay Realty\OkayRealty.Data\obj\Debug\netcoreapp2.1\OkayRealty.Data.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿@page "{apartmentId:int}"
+
+@model OkayRealty.Pages.Apartments.DetailModel
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<h2>@Model.Apartment.Name</h2>
+<div>
+    Id: @Model.Apartment.Id
+</div>
+<div>
+    Location: @Model.Apartment.Location
+</div>
+<div>
+    Cuisine: @Model.Apartment.Building
+</div>
+
+@if (Model.Message != null)
+{
+    <div class="alert alert-info">@Model.Message</div>
+}
+
+<a asp-page="./List" class="btn btn-default">All Apartments</a>
+

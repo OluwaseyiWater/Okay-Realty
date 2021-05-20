@@ -1,0 +1,30 @@
+﻿@page "{apartmentId:int?}"
+@model OkayRealty.Pages.Apartments.EditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Editing @Model.Apartment.Name</h2>
+
+<form method="post">
+
+    <input type="hidden" asp-for="Apartment.Id" />
+    <div class="form-group">
+        <label asp-for="Apartment.Name"></label>
+        <input asp-for="Apartment.Name" class="form-control" />
+        <span class="text-danger" asp-validation-for="Apartment.Name"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Apartment.Location"></label>
+        <input asp-for="Apartment.Location" class="form-control" />
+        <span class="text-danger" asp-validation-for="Apartment.Location"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Apartment.Building"></label>
+        <select class="form-control" asp-for="Apartment.Building"
+                asp-items="Model.Buildings"></select>
+        <span class="text-danger" asp-validation-for="Apartment.Building"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
